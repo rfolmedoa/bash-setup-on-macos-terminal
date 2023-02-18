@@ -22,3 +22,7 @@ else
 fi
 unset __conda_setup
 # <<< conda initialize <<<
+
+# Kubecolor
+export PATH="/Users/rfoa/github/bash-terminal-setup/kubecolor-darwin-arm64:$PATH"
+alias kubectl="kubecolor"
