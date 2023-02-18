@@ -1,1 +1,1 @@
-# Bash terminal setup for macOS
+# Bash setup on macOS terminal
